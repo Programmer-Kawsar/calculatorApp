@@ -60,6 +60,7 @@ form .display input {
   cursor: revert;
   padding: 10px;
   background: #00000029;
+  cursor: not-allowed;
 }
 .equal {
   width: 133px !important;
